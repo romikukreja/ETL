@@ -1,0 +1,4 @@
+pycodestyle==2.5.0
+pydocstyle==3.0.0
+pytest==4.3.0
+pyspark==2.4.0
